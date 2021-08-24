@@ -7,5 +7,3 @@
 # *Denver
 # *Charles Casper Stockham 23% (85,213) Diana Degette: 73.8% (272,892) Raymon Anthony Doane: 3.1% (11,606)
 # *Winnter Diana Degette. Winning vote count: 272,892. Winning Percentage: 73.8%
-### Election-Audit Summary
-# This is so perfect to use election. Also this can use for poll, counts how much reviews in yelp, or how rate popular. This is great in general use pthyon to count numbers amount.
